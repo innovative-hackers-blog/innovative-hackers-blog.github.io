@@ -1,7 +1,7 @@
 <head>
   {% if page.shareimg %}
-  <meta property="og:image" content="{{ page.shareimg | prepend: site.baseurl | replace: '//', '/' }}" />
-  <meta name="image" content="{{ page.shareimg | prepend: site.baseurl | replace: '//', '/' }}" alt="{{ site.title | escape }} | {{ page.title | escape }}">
+  <meta property="og:image" content="https://innovative-hackers-blog.github.io{{ page.shareimg | prepend: site.baseurl | replace: '//', '/' }}" />
+  <meta name="image" content="https://innovative-hackers-blog.github.io{{ page.shareimg | prepend: site.baseurl | replace: '//', '/' }}" alt="{{ site.title | escape }} | {{ page.title | escape }}">
   {% else %}
   <meta property="og:image" content="https://innovative-hackers-blog.github.io/img/shareihsp.jpg" />
   <meta name="image" content="https://innovative-hackers-blog.github.io/img/shareihsp.jpg">
