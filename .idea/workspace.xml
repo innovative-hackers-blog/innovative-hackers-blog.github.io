@@ -20,7 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="533d86c8-f0f2-4aec-9620-bcdceb47b6d2" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/_layouts/default.html" beforeDir="false" afterPath="$PROJECT_DIR$/_layouts/default.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/posts/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/posts/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,17 +60,17 @@
     <option name="LAST_COMMIT_MESSAGE" value="init" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="257" y="27" width="912" height="741" key="CommitChangelistDialog2" timestamp="1595289517433">
+    <state x="257" y="27" width="912" height="741" key="CommitChangelistDialog2" timestamp="1595289671115">
       <screen x="70" y="27" width="1296" height="741" />
     </state>
-    <state x="257" y="27" width="912" height="741" key="CommitChangelistDialog2/70.27.1296.741@70.27.1296.741" timestamp="1595289517433" />
-    <state x="313" y="133" width="800" height="535" key="Vcs.Push.Dialog.v2" timestamp="1595289521695">
+    <state x="257" y="27" width="912" height="741" key="CommitChangelistDialog2/70.27.1296.741@70.27.1296.741" timestamp="1595289671115" />
+    <state x="313" y="133" width="800" height="535" key="Vcs.Push.Dialog.v2" timestamp="1595289674931">
       <screen x="70" y="27" width="1296" height="741" />
     </state>
-    <state x="313" y="133" width="800" height="535" key="Vcs.Push.Dialog.v2/70.27.1296.741@70.27.1296.741" timestamp="1595289521695" />
-    <state x="408" y="136" width="620" height="522" key="find.popup" timestamp="1593459683898">
+    <state x="313" y="133" width="800" height="535" key="Vcs.Push.Dialog.v2/70.27.1296.741@70.27.1296.741" timestamp="1595289674931" />
+    <state x="408" y="136" width="620" height="522" key="find.popup" timestamp="1595289835708">
       <screen x="70" y="27" width="1296" height="741" />
     </state>
-    <state x="408" y="136" width="620" height="522" key="find.popup/70.27.1296.741@70.27.1296.741" timestamp="1593459683898" />
+    <state x="408" y="136" width="620" height="522" key="find.popup/70.27.1296.741@70.27.1296.741" timestamp="1595289835708" />
   </component>
 </project>
