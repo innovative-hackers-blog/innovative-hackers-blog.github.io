@@ -12,7 +12,7 @@ noindex: true
   <div class="control-group">
     <div class="form-group floating-label-form-group controls">
       <label>Name</label>
-      <input type="text" class="form-control" placeholder="Name" id="name" required data-validation-required-message="Please enter your name.">
+      <input type="text" class="form-control" placeholder="Name" id="name" name="name" required data-validation-required-message="Please enter your name.">
       <p class="help-block text-danger"></p>
     </div>
   </div>
@@ -47,6 +47,7 @@ noindex: true
   <br>
   <input id="mitarbeiter" name="mitarbeiter" type="hidden"  value="???" >
   <input id="art" name="art" type="hidden"  value="innovative-hackers" >
+  <input id="firma" name="firma" type="hidden"  value="innovative-hackers" >
   <div id="success"></div>
   <div class="form-group">
     <button type="submit" id="submit" name="submit" class="btn btn-primary" id="sendMessageButton">Send</button>
