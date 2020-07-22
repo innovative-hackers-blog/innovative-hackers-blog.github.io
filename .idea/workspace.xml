@@ -20,7 +20,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="533d86c8-f0f2-4aec-9620-bcdceb47b6d2" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_posts/2020-01-25-shopchat.html" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2020-01-25-shopchat.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -67,18 +66,18 @@
     <option name="LAST_COMMIT_MESSAGE" value="init" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="257" y="27" width="912" height="741" key="CommitChangelistDialog2" timestamp="1595423886102">
+    <state x="257" y="27" width="912" height="741" key="CommitChangelistDialog2" timestamp="1595424121346">
       <screen x="70" y="27" width="1296" height="741" />
     </state>
-    <state x="257" y="27" width="912" height="741" key="CommitChangelistDialog2/70.27.1296.741@70.27.1296.741" timestamp="1595423886102" />
+    <state x="257" y="27" width="912" height="741" key="CommitChangelistDialog2/70.27.1296.741@70.27.1296.741" timestamp="1595424121346" />
     <state x="390" y="81" width="646" height="640" key="RollbackChangesDialog" timestamp="1595419990272">
       <screen x="70" y="27" width="1296" height="741" />
     </state>
     <state x="390" y="81" width="646" height="640" key="RollbackChangesDialog/70.27.1296.741@70.27.1296.741" timestamp="1595419990272" />
-    <state x="313" y="133" width="800" height="535" key="Vcs.Push.Dialog.v2" timestamp="1595423890914">
+    <state x="313" y="133" width="800" height="535" key="Vcs.Push.Dialog.v2" timestamp="1595424125868">
       <screen x="70" y="27" width="1296" height="741" />
     </state>
-    <state x="313" y="133" width="800" height="535" key="Vcs.Push.Dialog.v2/70.27.1296.741@70.27.1296.741" timestamp="1595423890914" />
+    <state x="313" y="133" width="800" height="535" key="Vcs.Push.Dialog.v2/70.27.1296.741@70.27.1296.741" timestamp="1595424125868" />
     <state x="408" y="136" width="620" height="522" key="find.popup" timestamp="1595346120909">
       <screen x="70" y="27" width="1296" height="741" />
     </state>
