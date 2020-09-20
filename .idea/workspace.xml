@@ -19,7 +19,10 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="533d86c8-f0f2-4aec-9620-bcdceb47b6d2" name="Default Changelist" comment="" />
+    <list default="true" id="533d86c8-f0f2-4aec-9620-bcdceb47b6d2" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/innovative.html" beforeDir="false" afterPath="$PROJECT_DIR$/innovative.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -69,10 +72,10 @@
       <screen x="70" y="27" width="1296" height="741" />
     </state>
     <state x="434" y="199" width="558" height="403" key="#com.intellij.fileTypes.FileTypeChooser/70.27.1296.741@70.27.1296.741" timestamp="1599839155514" />
-    <state x="257" y="27" width="912" height="741" key="CommitChangelistDialog2" timestamp="1600513777855">
+    <state x="257" y="27" width="912" height="741" key="CommitChangelistDialog2" timestamp="1600514204864">
       <screen x="70" y="27" width="1296" height="741" />
     </state>
-    <state x="257" y="27" width="912" height="741" key="CommitChangelistDialog2/70.27.1296.741@70.27.1296.741" timestamp="1600513777855" />
+    <state x="257" y="27" width="912" height="741" key="CommitChangelistDialog2/70.27.1296.741@70.27.1296.741" timestamp="1600514204864" />
     <state x="170" y="127" width="1096" height="541" key="DiffContextDialog" timestamp="1595943658051">
       <screen x="70" y="27" width="1296" height="741" />
     </state>
